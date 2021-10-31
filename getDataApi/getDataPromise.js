@@ -70,22 +70,3 @@ form.addEventListener("submit", (e) => {
     }
   };
 });
-// namePer.addEventListener("keyup", (e) => {
-//   statusListen.addEventListener("keyup", (c) => {
-//     const urlChar = `https://rickandmortyapi.com/api/character/?name=${e.target.value}&status=${c.target.value}`;
-//     const http = new XMLHttpRequest();
-//     http.open("GET", urlChar, true);
-//     http.send();
-//     http.onreadystatechange = function () {
-//       if (this.readyState == 4 && this.status == 200) {
-//         var div = document.getElementById("infoCharacters");
-//         while (div.firstChild) {
-//           div.removeChild(div.firstChild);
-//         }
-//         let data = JSON.parse(this.responseText);
-//         printPagination(data.info);
-//         printData(data);
-//       }
-//     };
-//   });
-// });
