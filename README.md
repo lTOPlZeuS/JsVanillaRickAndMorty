@@ -7,7 +7,7 @@ Esta es una página web realizada con Html, JavaScript y Bootstrap la cual está
 # ¿Cómo comenzar a utilizar la aplicación?
 
 1.  clonar el proyecto puede ser descargado como .zip o desde la consola`
-    - `git clone `https://github.com/lTOPlZeuS/JsVanillaRickAndMorty.git
+    - `git clone https://github.com/lTOPlZeuS/JsVanillaRickAndMorty.git`
 2.  ingresar a la carpeta
     - `cd /JsVanillaRickAndMorty`
 3.  abrir el archivo index.html, si utilizan vscode puede utilizarel siguiente comando
